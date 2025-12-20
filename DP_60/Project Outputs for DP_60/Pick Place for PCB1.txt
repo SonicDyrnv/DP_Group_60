@@ -1,0 +1,22 @@
+Altium Designer Pick and Place Locations
+C:\Users\Lenovo\Desktop\Study\Internship\PCBDesign\DP_60\Project Outputs for DP_60\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20-12-25
+Time:       12:36
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer    Footprint                    Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                     Height(mil) 
+U2         TP4056       TopLayer SOP127P600X175-9N            6570.866      4287.402      270      ""                                                                                                                                              0.000       
+C4         ECWFG2J105Q1 TopLayer CAPRR2250W100L2700T1050H1900 3195.000      2605.000      90       "Metallized Polypropylene Film Capacitor"                                                                                                       0.000       
+C3         ECWFG2J105Q1 TopLayer CAPRR2250W100L2700T1050H1900 3712.598      2604.331      90       "Metallized Polypropylene Film Capacitor"                                                                                                       0.000       
+C2         ECWFG2J105Q1 TopLayer CAPRR2250W100L2700T1050H1900 4909.449      4311.024      180      "Metallized Polypropylene Film Capacitor"                                                                                                       0.000       
+C1         ECWFG2J105Q1 TopLayer CAPRR2250W100L2700T1050H1900 5793.307      3409.449      180      "Metallized Polypropylene Film Capacitor"                                                                                                       0.000       
+U3         ZC563900     TopLayer MODULE_ZC563900              4597.244      2936.220      0        "NodeMcu Lua ESP8266 WIFI Internet of Things Network Development Module Board"                                                                  0.000       
+U1         ACS712-20    TopLayer SOIC127P600X175-8N           3934.056      4564.370      0        "ACS712: Fully Integrated, Hall-Effect-Based Linear Current Sensor IC with 2.1 kV RMS Voltage Isolation and a Low-Resistance Current Conductor" 68.898      
+M1         SEN0142      TopLayer SEN0142                      6180.000      2470.000      90       "MPU-6050 series Accelerometer, Gyroscope, 3 Axis Sensor Evaluation Board"                                                                      0.000       
+J1         ZC362800#    TopLayer ZC362800#                    3455.512      3527.559      270      "1pc BH1750 Digital Ambient Light Intensity Sensor Module for Arduino GY-302"                                                                   0.000       

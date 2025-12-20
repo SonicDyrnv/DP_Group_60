@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Added Member To Class: ClassName=Sheet1 Member=Component U3 ZC563900

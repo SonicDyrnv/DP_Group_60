@@ -1,0 +1,11 @@
+Add component: Footprint Not Found CAPRR1500W80L1750T780H1100
+Add component: Footprint Not Found CAPRR1500W80L1750T780H1100
+Add Pin To Net: Unknown Pin: Pin C1-1
+Change Net Name : Old Net Name=Net1_1 New Net Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-5
+Added Pin To Net: NetName=NetC1_2 Pin=U3-17
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-6
+Added Net: Name=NetC2_1
+Add Class Member: Failed to add class member : Component C1 ECWFD2W105JC
+Add Class Member: Failed to add class member : Component C2 ECWFD2W105JC

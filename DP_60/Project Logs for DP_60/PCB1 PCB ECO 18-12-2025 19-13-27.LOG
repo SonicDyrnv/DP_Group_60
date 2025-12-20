@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetJ1_SDA Pin=U3-30
+Add component: Footprint Not Found CAPRR1500W80L1750T780H1100
+Add component: Footprint Not Found CAPRR1500W80L1750T780H1100
+Add Pin To Net: Unknown Pin: Pin 0.1UF-1
+Added Pin To Net: NetName=NetJ1_SDA Pin=U3-28
+Change Net Name : Old Net Name=NetJ1_VCC New Net Name=Net0.1UF_1
+Added Pin To Net: NetName=Net0.1UF_2 Pin=U1-5
+Added Pin To Net: NetName=Net0.1UF_2 Pin=U3-17
+Added Net: Name=Net0.1UF_2
+Added Pin To Net: NetName=Net1UF_1 Pin=U1-6
+Added Net: Name=Net1UF_1
+Add Class Member: Failed to add class member : Component 0.1UF ECWFD2W105JC
+Add Class Member: Failed to add class member : Component 1UF ECWFD2W105JC
+Added Member To Class: ClassName=Sheet1 Member=Component U1 ACS712-20
+Added Member To Class: ClassName=Sheet1 Member=Component U3 ZC563900

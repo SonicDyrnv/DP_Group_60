@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetC1_2 Pin=C4-1
+Added Pin To Net: NetName=NetC1_2 Pin=J1-GND
+Added Pin To Net: NetName=NetC1_2 Pin=U3-14
+Added Pin To Net: NetName=NetC1_2 Pin=U3-24
+Change Net Name : Old Net Name=NetC1_2 New Net Name=GND
+Added Member To Class: ClassName=Sheet1 Member=Component U2 TP4056

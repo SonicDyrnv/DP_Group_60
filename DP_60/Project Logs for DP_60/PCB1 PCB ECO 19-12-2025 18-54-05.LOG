@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=478CKS010M New DesignItemId=
+Change Component DesignItemId : Designator=C2 Old DesignItemId=478CKS010M New DesignItemId=
+Change Component DesignItemId : Designator=C4 Old DesignItemId=478CKS010M New DesignItemId=
+Change Component Library : Designator=C1 Old Library=478CKS010M.SchLib New Library=ECWFG2J105Q1.SchLib
+Change Component Library : Designator=C2 Old Library=478CKS010M.SchLib New Library=ECWFG2J105Q1.SchLib
+Change Component Library : Designator=C4 Old Library=478CKS010M.SchLib New Library=ECWFG2J105Q1.SchLib
+Add Component: Footprint Not Found CAPPRD500W60D1330H2700
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Class Member: Failed to add class member : Component C3 0.1uF

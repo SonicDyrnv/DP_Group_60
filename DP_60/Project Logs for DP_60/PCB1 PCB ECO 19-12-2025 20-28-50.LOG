@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=ACS712 NewDesignator=U1
+Change Component Designator: OldDesignator=BH1750 NewDesignator=J1
+Change Component Designator: OldDesignator=MPU6050 NewDesignator=M1
+Change Component Designator: OldDesignator=TP4056 NewDesignator=U2
+Added Pin To Net: NetName=NetC1_2 Pin=C3-1
+Added Pin To Net: NetName=NetC1_2 Pin=M1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U2-3

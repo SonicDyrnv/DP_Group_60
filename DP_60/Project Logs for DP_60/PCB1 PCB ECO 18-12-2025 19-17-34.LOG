@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J?
+Change Component Designator: OldDesignator=M1 NewDesignator=M?
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Change Component Designator: OldDesignator=U2 NewDesignator=U?
+Change Component Designator: OldDesignator=U3 NewDesignator=U?
+Add component: Footprint Not Found CAPRR1500W80L1750T780H1100
+Add component: Footprint Not Found CAPRR1500W80L1750T780H1100
+Add Pin To Net: Unknown Pin: Pin ?-1
+Change Net Name : Old Net Name=Net0.1UF_1 New Net Name=Net?_1
+Change Net Name : Old Net Name=NetJ1_GND New Net Name=NetJ?_GND
+Change Net Name : Old Net Name=NetJ1_SCL New Net Name=NetJ?_SCL
+Change Net Name : Old Net Name=NetJ1_SDA New Net Name=NetJ?_SDA
+Change Net Name : Old Net Name=NetM1_2 New Net Name=NetM?_2
+Change Net Name : Old Net Name=NetU1_7 New Net Name=NetU?_1
+Add Net: Net with name "Net?_1" already exists
+Added Pin To Net: NetName=Net?_2 Pin=U?-5
+Added Pin To Net: NetName=Net?_2 Pin=U?-17
+Added Net: Name=Net?_2
+Add Class Member: Failed to add class member : Component ? 0.1UF
+Add Class Member: Failed to add class member : Component ? 1UF
